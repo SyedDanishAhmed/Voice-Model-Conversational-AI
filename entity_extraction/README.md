@@ -2,7 +2,7 @@
 
 Extracting entities from user input
 
-Link to flask API: 'https://dev.ird.mu-sigma.com/entity-model/entity_extraction'
+Link to flask API: 'https://dev.ird.----.com/entity-model/entity_extraction'
 
 Input is a JSON with the following format:
 {"user_input_text":"","state":"", "intent": ""}
