@@ -2,4 +2,5 @@
 
 Conversion of audio input to text
 
-request_data = {"byte_array": audio_byte_array, "test": "test_string"}
+Input parameter: Byte array (sound converted to bytes)   
+Returns corresponding text
